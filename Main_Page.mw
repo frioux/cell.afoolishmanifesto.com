@@ -18,6 +18,9 @@ Consult the [http://meta.wikimedia.org/wiki/Help:Contents User's Guide] for info
 
 == Getting started ==
 
-* [http://www.mediawiki.org/wiki/Manual:Configuration_settings Configuration settings list]
+# Make yourself a user so you can post things.
+# Create a new page by going to <nowiki>http://cell.afoolishmanifesto.com/wiki/[blah]</nowiki> where [blah] is the name of the page you want to make.
+# Comment on someone else's page by clicking edit at the top and type in your comments at the bottom.  Sign them like this: <nowiki>~~~~</nowiki>
+# I recommend subscribing to the Recent Changes via RSS so that you'll know when things change.  ([[Special:RecentChanges|RecentChanges]])
+
 * [http://www.mediawiki.org/wiki/Manual:FAQ MediaWiki FAQ]
-* [http://lists.wikimedia.org/mailman/listinfo/mediawiki-announce MediaWiki release mailing list]
