@@ -1,4 +1,5 @@
 (Note for audience: Open Source is basically a "software development model" where you give away the software and what is needed to make the software, the source code, and allow people to freely modify it themselves and either make their own version or give you the additional code so you can add their improvements.  Big examples are Linux, OpenOffice, and Firefox.  Typically companies that make open source software make money by selling support and other services that complement the software.)
+(Another note for audience: Usually the way that open source projects work a small group of people do the top level design, figuring out features and big picture ideas, and then they go through and break the project down into very small parts and split them out to different people who work on them and communicate via the internet. )
 
 I am officially a big picture kind of person.  This will probably be apparent in this post, just a forwarning.  
 
@@ -16,3 +17,5 @@ I think it is a great idea GOAT, but of course, I have been an Open Source man f
 Let me put it another way: you are basically saying Free (as in freedom) plans, right?  With software the plan '''is'''  the software, so it can be very easily updated.
 
 If you think those things can be overcome that's great; this is just what I have seen in the past two or three years with the extension of Open source into more than just software.  --[[User:Frew|Frew]] 00:09, 3 November 2008 (UTC)
+
+So, to answer some questions:  I am saying free as in freedom plans, but not only plans for a device.  Because the projects i have in mind are not technologically advanced (simple devices) they are not likely to become outdated.  For isntance the LEGS leg will not because outdated in 50 years because it is a physical device that works fine.  I mean gas engines have been more or less the same for as long as it's been around and they still work.  Obviously it would improve with time, but simplicity will be our friend there.  And much of the design will be small enough chunks that a competent engineer/scientists could perform the work relatively quickly.  --[[User:Goat|Goat]] 16:43, 5 November 2008 (UTC)
